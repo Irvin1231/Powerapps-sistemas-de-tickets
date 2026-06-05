@@ -1,4 +1,4 @@
-# PowerApps-sistemas-de-tickets
+# PowerApps-Sistemas-de-Tickets
 Aplicación desarrollada en Power Apps para la gestión, seguimiento y control de tickets de soporte técnico.
 # DESCRIPCIÓN DEL PROYECTO
 Sistema de soporte técnico desarrollado utilizando la infraestructura de Microsoft 365, con el objetivo primordial de gestionar las incidencias y solicitudes de soporte técnico dentro de la organización.
