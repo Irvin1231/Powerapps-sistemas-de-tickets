@@ -28,6 +28,34 @@ Desarrolllar una solución para la gestión de incidencias y solicitudes de sopo
 - Microsoft 365
 - Microsoft Teams
 
+# FLUJO DE PROCESO
+
+Colaborador
+↓
+Microsoft Teams
+↓
+Registro de Ticket
+↓
+Almacenamiento de Ticket en SharePoint
+↓
+Power Automate envía notificación por correo electrónico
+↓
+Área de TI recibe la solicitud
+↓
+Gestión administrativa mediante Power Apps
+↓
+Asignación de responsable
+↓
+Atención de la incidencia
+↓
+Actualización de estado
+↓
+Ticket resuelto
+↓
+Envío de correo de confirmación al colaborador
+↓
+Cierre del ticket
+
 # FUNCIONES PRINCIPALES
 - Registro de tickets
 - Seguimiento de incidencias
