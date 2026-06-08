@@ -89,3 +89,8 @@ SharePoint
 Power Automate
 ↓
 Outlook
+
+
+# CAPTURAS DE PANTALLA
+
+![Pantalla de inicio](Capturas/pantalla de inicio.png)
