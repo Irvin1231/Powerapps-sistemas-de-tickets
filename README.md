@@ -93,4 +93,4 @@ Outlook
 
 # CAPTURAS DE PANTALLA
 
-![Pantalla de inicio](Capturas/pantalla de inicio.png)
+![Pantalla de inicio](Capturas/pantalla-de-inicio.png)
