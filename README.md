@@ -94,3 +94,7 @@ Outlook
 # CAPTURAS DE PANTALLA
 
 ![Pantalla de inicio](Capturas/pantalla-de-inicio.png)
+
+![Pantalla de Gestión de ticket administrador](Capturas/pantalla-admin.png)
+
+![Correo al finalizar ticket](Capturas/correoTicketCerrado.png)
